@@ -3,6 +3,6 @@
   import { routes } from "./routes";
 </script>
 
-<Router {routes} />
 
-<main>This is a test</main>
+
+<main><Router {routes} /></main>
